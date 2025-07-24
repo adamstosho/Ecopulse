@@ -59,6 +59,26 @@ Many people want to live more sustainably but don’t know where to start or how
 - **jsPDF & html2canvas** — PDF report generation
 - **LocalStorage** — Save your data in your browser
 
+# Preview of the App Interface (Screenshot)
+![screenshot](/public/screenshot/screencapture-ecopulse-sigma-vercel-app-2025-07-24-21_19_33.png)
+Landing page of the app
+
+![screenshot](/public/screenshot/screencapture-ecopulse-sigma-vercel-app-dashboard-2025-07-24-21_19_44.png)
+App dashbaord showing all the functionalities
+
+![screenshot](/public/screenshot/screencapture-ecopulse-sigma-vercel-app-dashboard-2025-07-24-21_21_06.png)
+This is showing the filtering functionality
+
+![screenshot](/public/screenshot/screencapture-ecopulse-sigma-vercel-app-dashboard-2025-07-24-21_22_37.png)
+This is showing settings page
+
+![screenshot](/public/screenshot/screencapture-ecopulse-sigma-vercel-app-dashboard-2025-07-24-21_23_11.png)
+
+This is showing the modal for clearing data
+
+![screenshot](/public/screenshot/screencapture-ecopulse-sigma-vercel-app-dashboard-2025-07-24-21_23_34.png)
+Profile page
+
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or pull request if you have ideas or improvements.
 
